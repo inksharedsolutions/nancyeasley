@@ -14,6 +14,7 @@ const Footer = ()=>{
             <footer className="footer-section">
                 <div className="footer-container footer-grid">
                     <div className="footer-child footer-paragraph-info">
+                    
                         <h1>
                             <img
                                 src={Logo}
@@ -22,8 +23,8 @@ const Footer = ()=>{
                         </h1>
 
                         <p>
-                            Kendell Easley loves to hear from readers. You can reach him via email. 
-                            Feel free to send questions about writing, his works, interviews 
+                            Kendell Easley loves to hear from readers. You can reach her via email. 
+                            Feel free to send questions about writing, her works, interviews 
                             and other publicity matters.
                         </p> 
                         
@@ -31,7 +32,7 @@ const Footer = ()=>{
                         <ul>
 
                             <li>
-                                <a href="https://www.facebook.com/StrattonPressInc/"
+                                <a href="https://www.facebook.com/byKendellEasley/"
                                 target="_blank"
                                 rel="noreferrer">
                                     <FontAwesomeIcon   
@@ -69,7 +70,7 @@ const Footer = ()=>{
                             <li>
                                 <a 
                                     target="_blank"
-                                    href="https://www.goodreads.com/author/show/3409410.Perry_Defiore"
+                                    href="https://www.goodreads.com/author/show/18592823.Kendell_Easley"
                                     rel="noreferrer"
                                     >
 

@@ -27,12 +27,12 @@ const MidBook = (props)=>{
                             </h1>
 
                             <p>
-                              Have you been bewildered by all the diverse
-                              options proposed as “the way” to Christlikeness?
-                              If so, you are not alone. Feasting with the Trinity
-                              sketches the way forward, based on two biblical observations.
-                              Kendell Easley presents feasting with the Trinity as a grand
-                              metaphor for living and enjoying the Christian life. 
+                                  Have you been bewildered by all the diverse
+                                  options proposed as “the way” to Christlikeness?
+                                  If so, you are not alone. Feasting with the Trinity
+                                  sketches the way forward, based on two biblical observations.
+                                  Kendell Easley presents feasting with the Trinity as a grand
+                                  metaphor for living and enjoying the Christian life. 
                             </p>
 
                             <button className="btn-book-featured">
