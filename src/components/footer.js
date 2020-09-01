@@ -14,7 +14,7 @@ const Footer = ()=>{
             <footer className="footer-section">
                 <div className="footer-container footer-grid">
                     <div className="footer-child footer-paragraph-info">
-                    
+
                         <h1>
                             <img
                                 src={Logo}
