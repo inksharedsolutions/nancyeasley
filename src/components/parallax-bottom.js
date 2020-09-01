@@ -7,7 +7,7 @@ import React from 'react'
             <section className="parallax-bottom">
                 <div className="flex-container">
                     <h1>
-                      The more you know, the more you know you don’t know
+                      True fellowship with God is enjoying a feast with His Trinity.
                         <span className="italic-tag span-verse">
                           Kendell Easley
                         </span>
