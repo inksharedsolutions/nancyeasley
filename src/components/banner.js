@@ -12,7 +12,7 @@ const Banner = ()=>{
                             <div className="banner-text">
                     
                                 <h1>
-                                   All flesh
+                                   All flesh 
                                 </h1>
 
                                 <p className="right-sub-text">

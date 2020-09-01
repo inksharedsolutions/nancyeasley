@@ -2,7 +2,7 @@ import React from 'react'
 import Layout from '../components/layout'
 import Nav from '../components/nav'
 import Banner from '../components/non-front-banner'
-import AuthorImg from '../../static/author/main_author.png'
+import AuthorImg from '../../static/img/dummy.png'
 
 const ATB = (props)=>{
 	
@@ -24,7 +24,7 @@ const ATB = (props)=>{
 
                             <div className="heading-quote">
                                 <h4>
-                                  “The more you know, the more you know you don’t know”.
+                                  “All Flesh Will Die One Day And Leave This World We Now Live In. But The Soul Will Live On. There Is A Choice Individual Have To Make--Who Will Be Your Choice The World Or The Kingdom Of God”.
                                 </h4>
                                 <span className="ata-span-fx">
                                     author quote
