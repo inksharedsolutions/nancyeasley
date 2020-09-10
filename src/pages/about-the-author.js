@@ -27,9 +27,7 @@ const ATB = (props)=>{
                                 <h4>
                                   “All Flesh Will Die One Day And Leave This World We Now Live In. But The Soul Will Live On. There Is A Choice Individual Have To Make--Who Will Be Your Choice The World Or The Kingdom Of God”.
                                 </h4>
-                                <span className="ata-span-fx">
-                                    author quote
-                                </span>
+                                <span className="ata-span-fx"></span>
                             </div>
                         </div>
 

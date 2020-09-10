@@ -62,10 +62,10 @@ const ATB = (props)=>{
                                     ebooks:{
                                         stratton:'https://www.stratton-press.com/books/feasting-with-the-trinity-a-formative-approach-to-growing-in-godliness/',
                                         barnes:'https://www.barnesandnoble.com/w/feasting-with-the-trinity-kendell-easley/1132646852?ean=9781643456300',
-                                        amazon:'https://www.amazon.com/Feasting-Trinity-Formative-Approach-Godliness/dp/1643456296/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1598904480&sr=1-1', 
+                                        amazon:'https://www.amazon.com/Feasting-Trinity-Formative-Approach-Godliness-ebook/dp/B07VNBBF5Z/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1598904480&sr=1-1', 
                                     },
                                     paperback:{
-                                        amazon:'https://www.amazon.com/Early-Years-Memoir-Matters-Heart/dp/164345434X/ref=sr_1_1?keywords=9781643454344&qid=1571761115&sr=8-1',
+                                        amazon:'https://www.amazon.com/Feasting-Trinity-Formative-Approach-Godliness/dp/1643456296/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1598904480&sr=1-1',
                                         barnes:'https://www.barnesandnoble.com/w/feasting-with-the-trinity-kendell-easley/1132646852?ean=9781643456294',
                                         booksamillion:'https://www.booksamillion.com/p/Feasting-Trinity/Kendell-Easley/9781643456294?id=7714171848832',
                                     }
@@ -103,13 +103,13 @@ const ATB = (props)=>{
 
                                     ebooks:{
                                         stratton:'https://www.stratton-press.com/books/jonathans-new-day/',
-                                        barnes:'https://www.amazon.com/Jonathans-New-Day-Kendell-Easley-ebook/dp/B084D57BG4/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1598910854&sr=1-1',
-                                        amazon:'https://www.amazon.com/Feasting-Trinity-Formative-Approach-Godliness/dp/1643456296/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1598904480&sr=1-1', 
+                                        barnes:'https://www.barnesandnoble.com/w/jonathans-new-day-kendell-easley/1136287283?ean=9781643458540',
+                                        amazon:'https://www.amazon.com/Jonathans-New-Day-Kendell-Easley-ebook/dp/B084D57BG4/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1598910854&sr=1-1', 
                                     },
                                     paperback:{
                                         amazon:'https://www.amazon.com/Jonathans-New-Day-Kendell-Easley/dp/1643458531/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1598910854&sr=1-1',
-                                        barnes:'https://www.barnesandnoble.com/w/feasting-with-the-trinity-kendell-easley/1132646852?ean=9781643456294',
-                                        booksamillion:'https://www.booksamillion.com/p/Feasting-Trinity/Kendell-Easley/9781643456294?id=7714171848832',
+                                        barnes:'https://www.barnesandnoble.com/w/jonathans-new-day-kendell-easley/1136287283?ean=9781643458533',
+                                        booksamillion:'https://www.booksamillion.com/p/Jonathans-New-Day/Kendell-Easley/9781643458533?id=7714171848832',
                                     }
                                 }} 
                             />
