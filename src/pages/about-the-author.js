@@ -2,14 +2,15 @@ import React from 'react'
 import Layout from '../components/layout'
 import Nav from '../components/nav'
 import Banner from '../components/non-front-banner'
-import AuthorImg from '../../static/img/dummy.png'
+import AuthorImg from '../../static/author/main_author.png'
 
 const ATB = (props)=>{
 	
 	return (
 		<> 
 		 	<Layout>
-		 		<Nav pathExt={props.path}/>
+		 		<Nav 
+                    pathExt={props.path}/>
 
                 <Banner 
                     spanFirst={`About The`} 

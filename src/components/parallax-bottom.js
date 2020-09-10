@@ -7,7 +7,8 @@ import React from 'react'
             <section className="parallax-bottom">
                 <div className="flex-container">
                     <h1>
-                      True fellowship with God is enjoying a feast with His Trinity.
+                        True fellowship with God is 
+                        enjoying a feast with His Trinity.
                         <span className="italic-tag span-verse">
                           Kendell Easley
                         </span>
