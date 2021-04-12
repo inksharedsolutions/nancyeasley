@@ -60,7 +60,6 @@ const ATB = (props)=>{
                                     `,
 
                                     ebooks:{
-                                        stratton:'https://www.stratton-press.com/books/feasting-with-the-trinity-a-formative-approach-to-growing-in-godliness/',
                                         barnes:'https://www.barnesandnoble.com/w/feasting-with-the-trinity-kendell-easley/1132646852?ean=9781643456300',
                                         amazon:'https://www.amazon.com/Feasting-Trinity-Formative-Approach-Godliness-ebook/dp/B07VNBBF5Z/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1598904480&sr=1-1', 
                                     },
@@ -102,7 +101,6 @@ const ATB = (props)=>{
                                     `,
 
                                     ebooks:{
-                                        stratton:'https://www.stratton-press.com/books/jonathans-new-day/',
                                         barnes:'https://www.barnesandnoble.com/w/jonathans-new-day-kendell-easley/1136287283?ean=9781643458540',
                                         amazon:'https://www.amazon.com/Jonathans-New-Day-Kendell-Easley-ebook/dp/B084D57BG4/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1598910854&sr=1-1', 
                                     },
